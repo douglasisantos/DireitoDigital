@@ -41,6 +41,7 @@ Em casos mais graves, o uso indevido de imagem pode ser considerado crime, como 
 O direito à honra, à reputação ou consideração social, abrangendo a honra externa ou objetiva e a interna ou subjetiva perfila como um direito de personalidade, que se reporta ao âmbito do direito civil, mas por ter sido recepcionado pela Constituição Federal (inciso X, do art. 5º, CF), como integrante dos direitos fundamentais, gera a exigência de sua observância, ou seja, um efeito inibitório (chilling effect) não só perante os particulares, mas também sobre a esfera pública.
 
 Este direito assegura que a dignidade e a reputação de uma pessoa não sejam prejudicadas por afirmações falsas ou injustas. Protege contra calúnias e difamação.
+
 **Exemplo**: Se alguém espalha rumores falsos sobre outra pessoa, alegando que ela cometeu um crime que não cometeu, a pessoa difamada pode processar por danos à sua honra.
 
 # Direito de Liberdade 
