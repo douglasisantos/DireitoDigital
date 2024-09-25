@@ -142,5 +142,12 @@ Responsabilidade Pessoal: As partes assumem a responsabilidade por suas ações 
 
 A autorregulação pode ser eficaz em muitos casos, especialmente quando as partes envolvidas têm um bom relacionamento e são capazes de manter um diálogo construtivo. No entanto, em situações mais complexas ou onde há um grande desequilíbrio de poder, a intervenção de um terceiro pode ser necessária para garantir uma resolução justa.
 
+# Dilema das Redes
+"O Dilema das Redes" é um documentário da Netflix que explora o impacto das redes sociais na sociedade, especialmente no comportamento humano, na política e na privacidade. Dirigido por Jeff Orlowski, o filme apresenta depoimentos de ex-funcionários de grandes empresas de tecnologia, como Google, Facebook e Twitter, que revelam como as plataformas são projetadas para manipular os usuários e aumentar o tempo de engajamento.
+
+O documentário discute temas como a coleta de dados pessoais, algoritmos que reforçam polarizações, o aumento da ansiedade e depressão, especialmente entre jovens, e como a desinformação se espalha rapidamente nas redes. A conclusão é que, embora as redes sociais ofereçam benefícios, elas também têm consequências sociais e psicológicas profundas, exigindo uma reflexão crítica sobre o seu uso.
+
+A obra traz uma crítica contundente à forma como as redes operam e propõe a necessidade de regulamentações e mudanças nas práticas da indústria tecnológica.
+
 
 
