@@ -149,5 +149,22 @@ O documentário discute temas como a coleta de dados pessoais, algoritmos que re
 
 A obra traz uma crítica contundente à forma como as redes operam e propõe a necessidade de regulamentações e mudanças nas práticas da indústria tecnológica.
 
+# Certificação Digital
+
+
+Definição: É um documento eletrônico que atesta a identidade de uma pessoa ou entidade no ambiente digital. A certificação digital é emitida por uma Autoridade Certificadora (AC).
+
+Função: Garante a autenticidade e a integridade das informações. Serve como uma "identidade digital" que permite que usuários e sistemas se identifiquem de forma segura.
+
+Criptografia: Utiliza criptografia assimétrica, que envolve um par de chaves: uma chave pública e uma chave privada. A chave pública é disponibilizada para quem precisar validar a identidade, enquanto a chave privada é mantida em segredo pelo titular do certificado.
+
+# Assinatura Digital
+
+Definição: É um mecanismo que assegura a autenticidade e a integridade de uma mensagem ou documento eletrônico. Funciona como uma "assinatura" feita digitalmente, que confirma que um documento foi realmente assinado por uma pessoa específica.
+
+Função: Garante que o documento não foi alterado após a assinatura e autentica a identidade do signatário.
+
+Criptografia: Também utiliza criptografia assimétrica. A assinatura é criada com a chave privada do signatário, enquanto a validação é feita com a chave pública correspondente. Assim, se alguém tentar alterar o documento, a assinatura se tornará inválida.
+
 
 
