@@ -306,4 +306,48 @@ O direito do consumidor é um ramo do direito que protege os interesses dos cons
 
     Os contratos realizados online devem ser claros e acessíveis, e a aceitação das condições deve ser expressa. A transparência nas informações é essencial.
 
+# O que é e para que serve uma licença de software?
+Uma licença de software é um documento ou contrato que define as condições de uso, distribuição, modificação e redistribuição de um software. Ela protege os direitos de propriedade intelectual do desenvolvedor ou empresa, além de determinar quais permissões e restrições são concedidas aos usuários e desenvolvedores que desejam utilizar, modificar ou distribuir o software. As licenças são essenciais para garantir que o software seja usado de acordo com os interesses do autor ou titular dos direitos.
 
+# O que é Software Proprietário, Software de Domínio Público, Adware, Freeware, Shareware, Software de código aberto?
+
+Software Proprietário: É um software cuja propriedade intelectual é retida por uma empresa ou indivíduo, que restringe o acesso ao código-fonte e impõe restrições de uso, cópia e modificação. Normalmente, o usuário precisa adquirir uma licença para utilizá-lo.
+
+Software de Domínio Público: Software sem restrições de direitos autorais, podendo ser usado, modificado e distribuído livremente por qualquer pessoa. Programas de domínio público não possuem qualquer tipo de propriedade intelectual restritiva, geralmente porque o autor decidiu abrir mão dos direitos autorais ou porque expiraram.
+
+Adware: Tipo de software distribuído gratuitamente, mas que exibe anúncios publicitários durante o uso. Em alguns casos, ele também pode ser associado a spyware, que coleta informações do usuário para direcionamento de publicidade.
+
+Freeware: Software gratuito que pode ser usado sem custo, mas o código-fonte geralmente não é disponibilizado, o que impede a modificação do programa. Freeware é comumente restrito para uso pessoal, sem autorização para uso comercial.
+
+Shareware: Software distribuído com restrições de uso gratuito por tempo ou funcionalidades limitadas. Os usuários têm acesso ao programa para teste e, se desejarem usá-lo sem limitações, precisam adquirir uma licença.
+
+Software de Código Aberto (Open Source): É o software cujo código-fonte está disponível publicamente, permitindo que os usuários o modifiquem e redistribuam de acordo com a licença associada. Este modelo promove a colaboração e desenvolvimento comunitário.
+# O que é GNU General Public License (GPL)?
+
+A GNU General Public License (GPL) é uma licença de software livre que permite aos usuários executar, estudar, modificar e compartilhar o software, desde que as mesmas liberdades sejam mantidas nas versões redistribuídas. Ela promove o conceito de "Copyleft", que assegura que o software e qualquer derivação dele continuem sendo livres.
+
+# O que é GNU FDL, GNU LGPL, GNU AGPL, Licença Livre e Copyleft?
+
+GNU Free Documentation License (FDL): É uma licença para documentação que permite copiar, modificar e distribuir documentos, desde que sejam mantidas as mesmas liberdades nas versões distribuídas. Foi criada para documentação de software, como manuais e livros.
+
+GNU Lesser General Public License (LGPL): É uma variante mais permissiva da GPL, permitindo que bibliotecas de software licenciadas sob LGPL sejam usadas em softwares proprietários sem que eles precisem ser distribuídos sob a mesma licença. No entanto, modificações à própria biblioteca LGPL precisam ser distribuídas sob LGPL.
+
+GNU Affero General Public License (AGPL): É uma licença baseada na GPL, mas que estende o Copyleft para aplicativos que são acessados por meio de uma rede. Isso significa que qualquer modificação feita no software e que seja disponibilizada por uma rede (como na web) precisa ser compartilhada com os usuários.
+
+Licença Livre: Licença que garante liberdades aos usuários, incluindo a permissão para usar, modificar e redistribuir o software. As licenças livres seguem princípios de liberdade para o software e se aplicam a códigos abertos.
+
+Copyleft: É uma prática de licenciamento que requer que qualquer obra derivada de um software mantenha a mesma licença do original, garantindo que o software e suas versões derivadas permaneçam livres para uso e distribuição.
+
+# Quais são as principais licenças disponíveis no GitHub?
+
+No GitHub, os desenvolvedores têm acesso a uma variedade de licenças de software, sendo algumas das principais:
+
+MIT License: Licença permissiva que permite reutilização, modificação e redistribuição, desde que a licença original seja incluída. É popular por sua simplicidade e flexibilidade.
+
+GNU General Public License (GPL): Exige que as modificações e redistribuições do software mantenham a mesma licença, promovendo o Copyleft.
+
+Apache License 2.0: Permite uso, modificação e distribuição do software, com proteção contra reivindicações de patente. Exige que a licença original seja incluída, mas não impõe o Copyleft.
+
+BSD Licenses: São permissivas e permitem a reutilização e redistribuição do software, com poucas restrições. A versão BSD-3-Clause requer que o aviso de copyright seja mantido, mas não exige o Copyleft.
+
+Mozilla Public License 2.0 (MPL): Licença com características de Copyleft que permite combinações de código aberto e código fechado no mesmo projeto, desde que o código MPL permaneça aberto.
