@@ -351,3 +351,45 @@ Apache License 2.0: Permite uso, modificação e distribuição do software, com
 BSD Licenses: São permissivas e permitem a reutilização e redistribuição do software, com poucas restrições. A versão BSD-3-Clause requer que o aviso de copyright seja mantido, mas não exige o Copyleft.
 
 Mozilla Public License 2.0 (MPL): Licença com características de Copyleft que permite combinações de código aberto e código fechado no mesmo projeto, desde que o código MPL permaneça aberto.
+
+
+# ISO/IEC 27000
+A série ISO/IEC 27000 é um conjunto de normas internacionais focadas em gestão de segurança da informação (Information Security Management System, ou ISMS). Seu objetivo é fornecer diretrizes e requisitos para proteger as informações de uma organização contra ameaças, garantindo confidencialidade, integridade e disponibilidade.
+
+Principais normas da série ISO/IEC 27000:
+ISO/IEC 27000:
+
+Fornece uma visão geral da série e um vocabulário padronizado.
+Serve como introdução ao ISMS.
+ISO/IEC 27001:
+
+A norma central que especifica os requisitos para estabelecer, implementar, manter e melhorar continuamente um ISMS.
+É certificável e amplamente adotada por organizações que buscam comprovar conformidade com boas práticas.
+ISO/IEC 27002:
+
+Fornece um guia de boas práticas para controles de segurança.
+Complementa a ISO 27001 ao detalhar os controles que podem ser implementados.
+ISO/IEC 27003:
+
+Guia de implementação do ISMS descrito na ISO 27001.
+ISO/IEC 27004:
+
+Fornece orientações para medição e avaliação da eficácia do ISMS.
+ISO/IEC 27005:
+
+Focado na gestão de riscos de segurança da informação.
+ISO/IEC 27017:
+
+Direcionada à segurança em serviços de computação em nuvem.
+ISO/IEC 27018:
+
+Trata da proteção de dados pessoais em ambientes de nuvem.
+ISO/IEC 27701:
+
+Estende a ISO 27001 e 27002 para gestão de privacidade da informação (GDPR, LGPD, etc.).
+Benefícios de implementar a ISO/IEC 27000:
+Proteção contra vazamentos de dados e ataques cibernéticos.
+Melhor gestão de riscos de TI.
+Conformidade com legislações e regulamentos (como GDPR e LGPD).
+Maior confiança de clientes, parceiros e investidores.
+Se precisar aprofundar em alguma norma específica, posso ajudar com mais detalhes!
